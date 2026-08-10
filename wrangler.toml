@@ -1,0 +1,9 @@
+name = "config-forge"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Optional: run it on a custom domain/route instead of the default
+# workers.dev subdomain. Uncomment and edit if you have one.
+# routes = [
+#   { pattern = "configforge.yourdomain.com/*", zone_name = "yourdomain.com" }
+# ]

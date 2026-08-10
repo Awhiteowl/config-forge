@@ -1,0 +1,13 @@
+{
+  "name": "config-forge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Batch-edit VLESS/Trojan configs: swap IPs, inject fingerprint/cipherSuites/fragment overrides, export as share links or full Xray-core JSON.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
