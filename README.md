@@ -1,5 +1,7 @@
 # Config Forge
 
+یک ورکر ساده برای اضافه کردن تغییرات پیشنهادی patterniha به کانفیگ های v2ray. از این کانفیگ ها میتونید توی این نسخه از v2ray استفاده کنید: https://github.com/patterniha/PattNG  کیفیت اتصال خیلی بهتر میشه و مشکل اپلود هم تا حدود زیادی برطرف میشه.
+
 A single-file Cloudflare Worker that batch-edits VLESS/Trojan configs:
 
 - Swaps the server address across one or many IPs (1 output per config × IP)
